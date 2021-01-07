@@ -60,6 +60,7 @@ header {
 }
 .welcome-text h1 span {
 	color: #00fecb;
+	border: 2px #000000
 }
 .welcome-text a {
 	border: 1px solid #fff;
