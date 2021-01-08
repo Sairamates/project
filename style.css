@@ -73,7 +73,7 @@ header {
 	font-size: 14px;
 	margin-top: 20px;
 	display: inline-block;
-	color: #fff;
+	color: #000;
 }
 .welcome-text a:hover {
 	background: #00fecb;
