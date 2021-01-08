@@ -10,7 +10,7 @@ body {
 	margin: auto;
 }
 header {
-	background-color: #fff ;
+	background-color: #00000 ;
 	height: 100vh;
 	-webkit-background-size: cover;
 	background-size: cover;
@@ -26,7 +26,7 @@ header {
 	display: inline-block;
 }
 .nav-area li a {
-	color: #fff;
+	color: #000;
 	text-decoration: none;
 	padding: 5px 20px;
 	font-family: poppins;
