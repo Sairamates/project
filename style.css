@@ -80,6 +80,20 @@ header {
 	background: #00fecb;
 	color: #000;
 }
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 15px;
+}
+
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
 /*resposive*/
 
 @media (max-width:600px) {
@@ -114,4 +128,7 @@ header {
 	.welcome-text h1 {
 		font-size: 30px;
 	}
+	 .column {
+    width: 100%;
+  }
 }
