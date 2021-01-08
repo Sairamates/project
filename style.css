@@ -82,8 +82,8 @@ header {
 }
 
 .column {
-  float: center;
-  width: 30.33%;
+  float: left;
+  width: 31.33%;
   padding: 15px;
 }
 
