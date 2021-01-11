@@ -58,6 +58,7 @@ header {
 	height: 300px;
 	margin: 20% 30%;
 	text-align: center;
+	background_image: url(slideshow.png);
 }
 .welcome-text h1 {
 	text-align: center;
