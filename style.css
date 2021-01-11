@@ -10,7 +10,7 @@ body {
 	margin: auto;
 }
 header {
-	background-color: orange;
+	background-color:#f44336;
 	height: 100vh;
 	-webkit-background-size: cover;
 	background-size: cover;
