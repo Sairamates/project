@@ -40,6 +40,7 @@ header {
 .nav-area li a:hover {
 	background: #00fecb;
 	color: #000;
+	border-radius: 8px;
 }
 .logo {
 	float: left;
