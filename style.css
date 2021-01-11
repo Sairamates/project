@@ -40,7 +40,7 @@ header {
 .nav-area li a:hover {
 	background: #00fecb;
 	color: #000;
-	border-radius: 6px;
+	border-radius: 4px;
 	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4);
 	
 }
@@ -82,7 +82,8 @@ header {
 .welcome-text a:hover {
 	background: #00fecb;
 	color: #000;
-	border-radius: 6px;
+	border-radius: 4px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4);
 }
 
 .column {
